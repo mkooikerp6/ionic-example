@@ -10,6 +10,8 @@ angular.module('app', ['ionic'])
     }
     if(window.StatusBar) {
       StatusBar.styleDefault();
+
+
     }
   });
 });
